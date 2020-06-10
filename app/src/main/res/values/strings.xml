@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android 学习课堂</string>
+    <string name="channel_name">普通通知</string>
+    <string name="channel_description">显示管理人数信息</string>
+</resources>
