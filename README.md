@@ -1,1 +1,1 @@
-＃有用学习理解AIDL的运作原理，与Binder在java层的一个实现的手写AIDL小Demo
+＃用于学习理解AIDL的运作原理，与Binder在java层的一个实现的手写AIDL小Demo
